@@ -1,0 +1,3 @@
+Flor
+Estoy aprendiendo Git
+Me gustaría poder utilizar Vim como bash principal para todos los programas
